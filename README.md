@@ -22,7 +22,7 @@ Iridium is an AI-powered desktop assistant that operates locally using Llama 3.2
  **Clone the repository:**
    ```sh
    git clone https://github.com/your-username/iridium.git
-   cd iridium
+
    ```
 
 ## Usage
